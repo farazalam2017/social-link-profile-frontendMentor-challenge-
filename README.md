@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![alt text](image.png)
+![UI](./assets/images/image.png)
 
 ### Links
 
